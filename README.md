@@ -49,23 +49,23 @@
         </tr>
         <tr>
           <td width="25%" valign="top" style="border: none; padding: 0;">
-            <a href="https://github.com/amey-bauchkar" target="_blank">
-              <img src="./assets/card-shieldintern.png" width="100%" alt="ShieldIntern - AI Fake Internship Offer Detector" style="border-radius: 10px;" />
+            <a href="https://github.com/amey-bauchkar/Prakalp-Drishti-" target="_blank">
+              <img src="./assets/card-prakalp.png" width="100%" alt="Prakalp Drishti - MoSPI SIH Infrastructure AI" style="border-radius: 10px;" />
+            </a>
+          </td>
+          <td width="25%" valign="top" style="border: none; padding: 0;">
+            <a href="https://github.com/amey-bauchkar/DepthWizard" target="_blank">
+              <img src="./assets/card-depthwizard.png" width="100%" alt="DepthWizard - ISRO SIH Height Estimation & 3D DEM" style="border-radius: 10px;" />
             </a>
           </td>
           <td width="25%" valign="top" style="border: none; padding: 0;">
             <a href="https://github.com/amey-bauchkar/PDR" target="_blank">
-              <img src="./assets/card-pdr.png" width="100%" alt="PDR World - Videotronics India" style="border-radius: 10px;" />
+              <img src="./assets/card-pdr.png" width="100%" alt="PDR World - Fiber Optic & Network Infrastructure" style="border-radius: 10px;" />
             </a>
           </td>
           <td width="25%" valign="top" style="border: none; padding: 0;">
-            <a href="https://github.com/amey-bauchkar/Prakalp-Drishti-" target="_blank">
-              <img src="./assets/card-prakalp.png" width="100%" alt="Prakalp Drishti (SIH)" style="border-radius: 10px;" />
-            </a>
-          </td>
-          <td width="25%" valign="top" style="border: none; padding: 0;">
-            <a href="https://github.com/amey-bauchkar" target="_blank">
-              <img src="./assets/card-smartdustbin.png" width="100%" alt="Smart Dustbin IoT" style="border-radius: 10px;" />
+            <a href="https://github.com/amey-bauchkar/BlackSocial" target="_blank">
+              <img src="./assets/card-blacksocial.png" width="100%" alt="BlackSocial - BSTF Charitable Foundation" style="border-radius: 10px;" />
             </a>
           </td>
         </tr>
