@@ -1,72 +1,118 @@
 <div align="center">
 
-  <!-- Custom Sleek Dark Hero Banner -->
-  <img src="./assets/banner.svg" alt="Amey Bauchkar Banner" width="100%" />
+<!-- ========================================== -->
+<!-- 🔴 NEON CRIMSON DEVELOPER DASHBOARD        -->
+<!-- ========================================== -->
 
-  <br/><br/>
+<table border="0" cellpadding="0" cellspacing="12" width="100%" style="border-collapse: separate; border-spacing: 12px; background: transparent;">
+  <tr>
+    <!-- LEFT SIDEBAR: PROFILE & ABOUT -->
+    <td width="26%" valign="top" style="border: none; padding: 0;">
+      <a href="https://github.com/amey-bauchkar">
+        <img src="./assets/sidebar.png" width="100%" alt="Amey Bauchkar Profile" style="border-radius: 14px;" />
+      </a>
+    </td>
 
-  <!-- Dynamic Typing Subtitle -->
-  <a href="https://13amey.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast;Architecting+scalable+web+apps+%26+intelligent+systems;React+%E2%80%A2+Next.js+%E2%80%A2+Python+%E2%80%A2+PyTorch;Turning+complex+problems+into+elegant+production+code" alt="Typing SVG" />
+    <!-- RIGHT COLUMN: HERO BANNER, ABOUT, STATS, & PROJECTS -->
+    <td width="74%" valign="top" style="border: none; padding: 0;">
+      
+      <!-- HERO BANNER -->
+      <a href="https://13amey.vercel.app/" target="_blank">
+        <img src="./assets/hero-banner.png" width="100%" alt="Amey Bauchkar - Welcome to My GitHub" style="border-radius: 14px;" />
+      </a>
+
+      <br/><br/>
+
+      <!-- MIDDLE ROW: ABOUT ME & GITHUB STATS -->
+      <table border="0" cellpadding="0" cellspacing="8" width="100%" style="border-collapse: separate; border-spacing: 8px; background: transparent;">
+        <tr>
+          <td width="49%" valign="top" style="border: none; padding: 0;">
+            <img src="./assets/about-card.png" width="100%" alt="About Me" style="border-radius: 12px;" />
+          </td>
+          <td width="2%" style="border: none;"></td>
+          <td width="49%" valign="top" style="border: none; padding: 0;">
+            <a href="https://github.com/amey-bauchkar">
+              <img src="./assets/stats-card.png" width="100%" alt="GitHub Stats & Heatmap" style="border-radius: 12px;" />
+            </a>
+          </td>
+        </tr>
+      </table>
+
+      <br/>
+
+      <!-- FEATURED PROJECTS ROW -->
+      <table border="0" cellpadding="0" cellspacing="8" width="100%" style="border-collapse: separate; border-spacing: 8px; background: transparent;">
+        <tr>
+          <td colspan="4" style="border: none; padding: 0 0 6px 0;">
+            <img src="./assets/projects-header.png" width="100%" alt="Featured Projects" style="border-radius: 8px;" />
+          </td>
+        </tr>
+        <tr>
+          <td width="25%" valign="top" style="border: none; padding: 0;">
+            <a href="https://github.com/amey-bauchkar" target="_blank">
+              <img src="./assets/card-shieldintern.png" width="100%" alt="ShieldIntern - AI Fake Internship Offer Detector" style="border-radius: 10px;" />
+            </a>
+          </td>
+          <td width="25%" valign="top" style="border: none; padding: 0;">
+            <a href="https://github.com/amey-bauchkar/PDR" target="_blank">
+              <img src="./assets/card-pdr.png" width="100%" alt="PDR World - Videotronics India" style="border-radius: 10px;" />
+            </a>
+          </td>
+          <td width="25%" valign="top" style="border: none; padding: 0;">
+            <a href="https://github.com/amey-bauchkar/Prakalp-Drishti-" target="_blank">
+              <img src="./assets/card-prakalp.png" width="100%" alt="Prakalp Drishti (SIH)" style="border-radius: 10px;" />
+            </a>
+          </td>
+          <td width="25%" valign="top" style="border: none; padding: 0;">
+            <a href="https://github.com/amey-bauchkar" target="_blank">
+              <img src="./assets/card-smartdustbin.png" width="100%" alt="Smart Dustbin IoT" style="border-radius: 10px;" />
+            </a>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- ⚡ INTERACTIVE & DYNAMIC SECTIONS          -->
+<!-- ========================================== -->
+
+<!-- Dynamic Typing Subtitle -->
+<a href="https://13amey.vercel.app/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast;Electronics+%26+Computer+Science+%40+Vidyalankar;Building+scalable+web+apps+%26+intelligent+systems;React+%E2%80%A2+Next.js+%E2%80%A2+Python+%E2%80%A2+PyTorch+%E2%80%A2+Azure" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Quick Connect & Status Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/amey-bauchkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <br/>
-
-  <!-- Status & Quick Badges -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=amey-bauchkar&label=PROFILE+VIEWS&style=flat-square&color=8b5cf6" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-10b981?style=flat-square" alt="Status" />
-    <a href="https://13amey.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-13amey.vercel.app-f43f5e?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI%2FML-38bdf8?style=flat-square" alt="Focus" />
-  </p>
-
-  <!-- Connect Links Bar -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/amey-bauchkar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:bauchkaramey1306@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://13amey.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
-    </a>
-    <a href="https://github.com/amey-bauchkar">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+  <a href="mailto:bauchkaramey1306@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://13amey.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/amey-bauchkar">
+    <img src="https://img.shields.io/badge/Follow%20%40amey--bauchkar-FF2A55?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
 
 </div>
-
----
-
-### 🚀 About Me
-
-```yaml
-developer:
-  name: Amey Bauchkar
-  role: Full Stack Developer & AI/ML Enthusiast
-  passions: [Full-Stack Architecture, Computer Vision, Deep Learning, Cloud Systems]
-  location: India
-  portfolio: "https://13amey.vercel.app/"
-  open_to: [Collaborations, High-Impact Engineering Roles, AI/ML Projects]
-```
-
-- 🔭 **Currently Building:** Scalable web platforms, microservices, and AI-driven applications.
-- 💡 **Core Expertise:** Modern frontend with **React** & **Next.js**, robust backends in **Python** & **Node.js**, and intelligent systems using **PyTorch** & **OpenCV**.
-- 🌌 **Notable Work:** Engineered **DepthWizard** (deep learning depth estimation on Azure) and **ILMS** (Internal Lead Management System).
-- 🌱 **Continuously Exploring:** Generative AI, LLM orchestration, and distributed cloud computing.
-- 💬 **Let's Talk About:** Full-stack development, AI/ML pipelines, system design, and cutting-edge web tech.
-- 📬 **Get In Touch:** Drop me a line at [bauchkaramey1306@gmail.com](mailto:bauchkaramey1306@gmail.com).
 
 ---
 
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-  <!-- Skill Icons Dark Palette -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,pytorch,tensorflow,fastapi,nodejs,express,tailwind,postgres,mongodb,azure,vercel,docker,git,linux&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,pytorch,tensorflow,fastapi,nodejs,express,tailwind,mongodb,postgres,azure,vercel,docker,git,linux&theme=dark" alt="Skills" />
   </a>
 </div>
 
@@ -75,13 +121,12 @@ developer:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Languages & Frontend</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <br/>
+      <h4>💻 Frontend & Languages</h4>
       <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -90,45 +135,28 @@ developer:
       <h4>🧠 AI / ML, Backend & Cloud</h4>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <br/>
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack | Live / Code |
-| :--- | :--- | :---: | :---: |
-| 🔮 **[DepthWizard](https://github.com/amey-bauchkar/DepthWizard)** | AI-powered depth estimation platform leveraging computer vision and neural models, deployed on Azure Cloud. | `Python` `Deep Learning` `Azure` | [🌐 Live Demo](http://depthwizard.indiasouthcentral.cloudapp.azure.com/) • [📂 Code](https://github.com/amey-bauchkar/DepthWizard) |
-| ⚡ **[Mindspark](https://github.com/amey-bauchkar/Mindspark)** | Intelligent AI web application designed for dynamic problem-solving and rapid prototyping. | `Python` `AI / ML` `Vercel` | [🌐 Live Demo](https://mindspark-gamma.vercel.app) • [📂 Code](https://github.com/amey-bauchkar/Mindspark) |
-| 📊 **[ILMS](https://github.com/amey-bauchkar/ILMS)** | Internal Lead Management System engineered for Foremark Technologies with real-time lead analytics. | `TypeScript` `React` `Next.js` | [🌐 Live Demo](https://ilms-zeta.vercel.app) • [📂 Code](https://github.com/amey-bauchkar/ILMS) |
-| 🌐 **[Portfolio 13amey](https://13amey.vercel.app/)** | Sleek, interactive personal developer website showcasing engineering projects and technical skills. | `React` `Tailwind CSS` `Vercel` | [🌐 Live Demo](https://13amey.vercel.app/) • [📂 Code](https://github.com/amey-bauchkar/NewForemarkWebsite) |
-
-</div>
-
----
-
-### 📊 GitHub Activity & Analytics
+### 📊 Live GitHub Analytics
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=amey-bauchkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8" alt="Amey's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=amey-bauchkar&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=ff2a55&icon_color=ff5e7e&text_color=a0a5b5" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=amey-bauchkar&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=A855F7" alt="Amey's GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=amey-bauchkar&theme=radical&hide_border=true&background=0A0A0F&ring=FF2A55&fire=FF2A55&currStreakLabel=FF5E7E" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -136,7 +164,7 @@ developer:
   <br/>
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey-bauchkar&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey-bauchkar&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=ff2a55&text_color=a0a5b5&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -154,9 +182,9 @@ developer:
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by <b>Amey Bauchkar</b> • Let's build something remarkable together!</sub>
+  <sub>Designed with ❤️ for <b>Amey Bauchkar</b> • <i>"Ideas today, solutions tomorrow."</i></sub>
   <br/><br/>
-  <a href="https://www.linkedin.com/in/amey-bauchkar">
-    <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me" />
+  <a href="https://www.linkedin.com/in/amey-bauchkar" target="_blank">
+    <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-FF2A55?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me" />
   </a>
 </div>
